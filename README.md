@@ -13,19 +13,20 @@ I’m passionate about **research** and aspire to pursue a **PhD** to contribute
 ---
 
 📚 **My Projects**  
-### Machine Learning  
-- **[Machine Learning Approaches for Early Detection of Diabetes: A Comparative Study and Novel Solution on the PIMA Indians Diabetes Dataset](https://github.com/tomledeakin/Diabetes-Detection-ML-PIMA)**  
+- **[Diabetes Detection with PIMA Dataset](https://github.com/tomledeakin/Diabetes-Detection-ML-PIMA)**  
   Built a predictive model to assess the likelihood of diabetes using the PIMA dataset, focusing on feature engineering and model performance optimization.
 
-- **[Training and Analysis of a Face Recognition Model Using Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA)](https://github.com/tomledeakin/Face-Recognition-Dimensionality-Reduction)**  
+- **[Face Recognition with Dimensionality Reduction](https://github.com/tomledeakin/Face-Recognition-Dimensionality-Reduction)**  
   Applied PCA to reduce feature space and implemented a face recognition model that balances accuracy and computational efficiency.  
 
-### Deep Learning  
-- **[FER-2013 Emotion Classification: Analyzing Facial Expressions with Deep Learning Models on High-Resolution Images](https://github.com/tomledeakin/fer2013-emotion-classification)**  
+- **[Emotion Classification from Images](https://github.com/tomledeakin/fer2013-emotion-classification)**  
   Leveraged the FER-2013 dataset to classify human emotions using CNNs, with data augmentation and advanced preprocessing to improve accuracy.  
 
-- **[Deep Learning for Animal Image Classification: Custom CNN Model and ResNet18 Comparison](https://github.com/tomledeakin/animal_image_classification)**  
-  Designed and trained a deep learning model to classify animal species from images, employing transfer learning to enhance performance on limited data.   
+- **[Animal Image Classification](https://github.com/tomledeakin/animal_image_classification)**  
+  Designed and trained a deep learning model to classify animal species from images, employing transfer learning to enhance performance on limited data.  
+
+- **Backdoor Detection in Deep Learning**  
+  Investigated hidden backdoor patterns using **BackdoorBox**, visualizing triggers in neural networks to enhance detection techniques and ensure model integrity.  
 
 ---
 
