@@ -31,7 +31,7 @@ I’m passionate about **research** and aspire to pursue a **PhD** to contribute
 ---
 
 📬 **Contact**  
-- 🌐 **LinkedIn:** [linkedin.com/in/hainam-ai](https://linkedin.com/in/hainam-ai)  
+- 🌐 **LinkedIn:** [linkedin.com/in/tomledeakin](https://linkedin.com/in/tomledeakin)  
 - 📥 **Outlook:** [s222576762@deakin.edu.au](mailto:s222576762@deakin.edu.au)  
 - 📮 **Email:** [tomledeakin@gmail.com](mailto:tomledeakin@gmail.com)  
 
