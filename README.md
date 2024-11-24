@@ -1,4 +1,5 @@
-🦊 **Hello**, I’m **Hai Nam**, pursuing a **Bachelor of Artificial Intelligence** at **Deakin University** with a **WAM of 95/100**.  
+🦊 **About**  
+- **Hello**, I’m **Hai Nam**, pursuing a **Bachelor of Artificial Intelligence** at **Deakin University** with a **WAM of 95/100**.  
 I’m passionate about **research** and aspire to pursue a **PhD** to contribute to advancements in **Artificial Intelligence**.  
 
 ---
